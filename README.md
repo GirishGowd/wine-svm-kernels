@@ -9,7 +9,7 @@ The Wine dataset is included in this repository and loaded using pandas.
 - svm_kernels_wine.py
 - wine.data
 - requirements.txt
-- SVM_Kernel_Comparison_Wine_Dataset_Report.pdf
+- SVM_Kernel_Comparison_Report.pdf
 
 ## How to run
 pip install -r requirements.txt
